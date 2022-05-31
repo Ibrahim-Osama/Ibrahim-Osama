@@ -40,16 +40,16 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ibrahim-osama&theme=dark)](https://git.io/streak-stats)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ibrahim-Osama&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ibrahim-Osama&theme=radical)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ibrahim-Osama&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ibrahim-Osama&theme=radical)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ibrahim-Osama&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ibrahim-Osama&theme=radical)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ibrahim-Osama&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ibrahim-Osama&theme=radical)
 
 
 
