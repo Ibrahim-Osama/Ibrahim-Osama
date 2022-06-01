@@ -11,8 +11,6 @@
 
 
 
-
-
 <p align="left"> <a href="https://twitter.com/ibrahim-osama" target="blank"><img src="https://img.shields.io/twitter/follow/ibrahim-osama?logo=twitter&style=for-the-badge" alt="ibrahim-osama" /></a> </p>
 
 - 🔭 I’m currently **Student**
@@ -49,9 +47,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ibrahim-osama&theme=dark)](https://git.io/streak-stats)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ibrahim-Osama&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrahim-osama&theme=radical)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmednageebmahmoud&theme=radical	)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmednageebmahmoud&theme=radical	)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmednageebmahmoud&theme=radical	)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmednageebmahmoud&theme=radical&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibrahim-osama&theme=radical	)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ibrahim-osama&theme=radical	)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibrahim-osama&theme=radical	)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ibrahim-osama&theme=radical&utcOffset=8)
 
 
 
